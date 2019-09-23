@@ -1,1 +1,1 @@
-# Ph-n-m-m-qu-n-l-o-t-o
+# Phần mềm quản lý đào tạo
