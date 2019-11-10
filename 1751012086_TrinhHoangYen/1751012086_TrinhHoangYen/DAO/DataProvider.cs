@@ -21,7 +21,7 @@ namespace _1751012086_TrinhHoangYen
         private DataProvider() { }
 
         //chuỗi xác định database sẽ kết nối
-        private string connectionSTR = "Server = . ; Database = QuanLyDaoTao;Integrated Security=True"; 
+        private string connectionSTR = @"Data Source=.;Initial Catalog = QuanLyMonHoc1; Integrated Security = True"; 
 
         //trả về những dòng kết quả
         public DataTable ExcuteQuery(string query, object[] parameter = null)
