@@ -1,4 +1,5 @@
 <h1>Phần mềm quản lý đào tạo.</h1>
+Educational management software
 <p>Môn Lập trình giao diện</p>
 <p>Giảng viên Nguyễn Thị Phương Trang, trường Đại học Mở tpHCM</p>
 <p>Người thực hiện: Trịnh Hoàng Yến</p>
